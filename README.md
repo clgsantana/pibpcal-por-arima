@@ -1,5 +1,6 @@
 # pibpcal-por-arima
 Trabalho realizado para a disciplina de Econometria 2, com o objetivo de estimar o crescimento do PIB per capita do estado de Alagoas, e compará-lo com os estados de Pernambuco e São Paulo através do modelo ARIMA.
+O software utilizado foi o R, e a base de dados se encontra no arquivo "pibpc.xlsx".
 
 DISCLAIMER:
 1. No desenvolvimento do estudo, encontrou-se a problemática de que para tal metodologia, o nível reduzido dos dados encontrados acerca do PIB per capita dos referidos estados não seriam suficientes para realizar uma
